@@ -7,6 +7,8 @@ tags:
 
 # 开始上手
 
+![head](https://mengxiblog-content-storage.nextsay.cn/img/welcome)
+
 欢迎阅读“银发族”网络使用指南！本指南旨在帮助老年人了解如何使用手机与互联网。
 
 我们将指导您**使用手机和互联网的部分常用功能**，并且教学相关反诈骗知识等。

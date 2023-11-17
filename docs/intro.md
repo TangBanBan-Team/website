@@ -57,6 +57,4 @@ tags:
 
 ---
 
-本页面使用`ChatGPT`辅助生成
-
-作者：**Zhu Hongrui**，未经许可严禁转载！
+作者：**Zhu Hongrui**，使用文心一言大模型辅助生成

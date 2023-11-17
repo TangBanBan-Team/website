@@ -7,6 +7,8 @@ tags:
 ---
 # 互联网是什么？
 
+![head](https://mengxiblog-content-storage.nextsay.cn/img/what-is-internet.png)
+
 互联网，就像一个大大的、无边无际的图书馆，里面有各种各样的书籍、音乐、电影，甚至还有新闻和天气预报。
 
 你可以在家里，只需要一台电脑或者手机，就能访问这个图书馆，找到你想要的信息。

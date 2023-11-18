@@ -35,13 +35,19 @@ tags:
 
 在本教程中，我们将教授你如何使用**经典导航**
 
+![shots](https://mengxiblog-content-storage.nextsay.cn/img/shots/shots01.jpg)
+
 > 你可能听过”金刚键“这个词，它指的是手机上位于屏幕最下方的三个按钮（无论是实体按钮还是虚拟按钮）
-> 
-> 在默认布局下，位于中间的”方格“按钮可把我们带回手机主界面
-> 
-> 位于左侧的“三杠”按钮可把我们带到“后台任务视图”，用于关闭或锁定后台应用进程
-> 
-> 位于右侧的“<"按钮可带我们返回上一级页面，用于应用内返回操作等功能
+
+在默认布局下，位于中间的”方格“按钮可把我们带回**手机主界面**，即系统桌面，您浏览应用的地方
+
+位于左侧的“三杠”按钮可把我们带到 **“后台任务视图”**，用于 **关闭或锁定后台应用**进程
+
+位于右侧的“<"按钮可带我们 **返回上一级页面** ，用于 **应用内返回操作** 等功能
+
+具体操作演示，请观看以下视频：
+
+<iframe id="dogePlayerFrame" src="https://player.dogecloud.com/web/player.html?vcode=040cf7953c1d02b9&userId=2491&autoPlay=false&inFrame=true" allowfullscreen="true" msallowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" allowtransparency="true" scrolling="no" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" referrerPolicy="unsafe-url"></iframe>
 
 ### 额外资料
 
